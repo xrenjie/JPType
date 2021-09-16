@@ -1,0 +1,622 @@
+[
+ {
+  "kanji": "会う",
+  "kana": "あう",
+  "def": "to meet "
+ },
+ {
+  "kanji": "開く",
+  "kana": "あく",
+  "def": "to be open "
+ },
+ {
+  "kanji": "洗う",
+  "kana": "あらう",
+  "def": "to wash "
+ },
+ {
+  "kanji": "ある",
+  "kana": "ある",
+  "def": "to have "
+ },
+ {
+  "kanji": "歩く",
+  "kana": "あるく",
+  "def": "to walk "
+ },
+ {
+  "kanji": "言う",
+  "kana": "いう",
+  "def": "to say "
+ },
+ {
+  "kanji": "行く",
+  "kana": "いく",
+  "def": "to go "
+ },
+ {
+  "kanji": "急ぐ",
+  "kana": "いそぐ",
+  "def": "to be in a hurry "
+ },
+ {
+  "kanji": "要る",
+  "kana": "いる",
+  "def": "to need "
+ },
+ {
+  "kanji": "祝う",
+  "kana": "いわう",
+  "def": "to celebrate "
+ },
+ {
+  "kanji": "歌う",
+  "kana": "うたう",
+  "def": "to sing "
+ },
+ {
+  "kanji": "売る",
+  "kana": "うる",
+  "def": "to sell "
+ },
+ {
+  "kanji": "選ぶ",
+  "kana": "えらぶ",
+  "def": "to choose "
+ },
+ {
+  "kanji": "置く",
+  "kana": "おく",
+  "def": "to put "
+ },
+ {
+  "kanji": "送る",
+  "kana": "おくる",
+  "def": "to send "
+ },
+ {
+  "kanji": "押す",
+  "kana": "おす",
+  "def": "to press, to push "
+ },
+ {
+  "kanji": "おっしゃる",
+  "kana": "おっしゃる",
+  "def": "to say "
+ },
+ {
+  "kanji": "思う",
+  "kana": "おもう",
+  "def": "to think "
+ },
+ {
+  "kanji": "買う",
+  "kana": "かう",
+  "def": "to buy "
+ },
+ {
+  "kanji": "泳ぐ",
+  "kana": "およぐ",
+  "def": "to swim "
+ },
+ {
+  "kanji": "終わる",
+  "kana": "おわる",
+  "def": "to be over "
+ },
+ {
+  "kanji": "返す",
+  "kana": "かえす",
+  "def": "to return "
+ },
+ {
+  "kanji": "帰る",
+  "kana": "かえる",
+  "def": "to go home "
+ },
+ {
+  "kanji": "かかる",
+  "kana": "かかる",
+  "def": "to take (time) "
+ },
+ {
+  "kanji": "書く",
+  "kana": "かく",
+  "def": "to write "
+ },
+ {
+  "kanji": "貸す",
+  "kana": "かす",
+  "def": "to lend "
+ },
+ {
+  "kanji": "被る",
+  "kana": "かぶる",
+  "def": "to put on(a hat) "
+ },
+ {
+  "kanji": "聞く",
+  "kana": "きく",
+  "def": "to ask, to listen "
+ },
+ {
+  "kanji": "切る",
+  "kana": "きる",
+  "def": "to cut, to turn off "
+ },
+ {
+  "kanji": "曇る",
+  "kana": "くもる",
+  "def": "to cloud "
+ },
+ {
+  "kanji": "消す",
+  "kana": "けす",
+  "def": "to turn off, to remove "
+ },
+ {
+  "kanji": "困る",
+  "kana": "こまる",
+  "def": "to be in trouble "
+ },
+ {
+  "kanji": "込む",
+  "kana": "こむ",
+  "def": "to be crowded "
+ },
+ {
+  "kanji": "探す",
+  "kana": "さがす",
+  "def": "to look for "
+ },
+ {
+  "kanji": "咲く",
+  "kana": "さく",
+  "def": "to bloom "
+ },
+ {
+  "kanji": "差す",
+  "kana": "さす",
+  "def": "to fill "
+ },
+ {
+  "kanji": "死ぬ",
+  "kana": "しぬ",
+  "def": "to die "
+ },
+ {
+  "kanji": "閉まる",
+  "kana": "しまる",
+  "def": "to be closed "
+ },
+ {
+  "kanji": "知る",
+  "kana": "しる",
+  "def": "to know "
+ },
+ {
+  "kanji": "吸う",
+  "kana": "すう",
+  "def": "to suck "
+ },
+ {
+  "kanji": "滑る",
+  "kana": "すべる",
+  "def": "to slip "
+ },
+ {
+  "kanji": "住む",
+  "kana": "すむ",
+  "def": "to live "
+ },
+ {
+  "kanji": "座る",
+  "kana": "すわる",
+  "def": "to sit down "
+ },
+ {
+  "kanji": "出す",
+  "kana": "だす",
+  "def": "to take out "
+ },
+ {
+  "kanji": "立つ",
+  "kana": "たつ",
+  "def": "to stand "
+ },
+ {
+  "kanji": "頼む",
+  "kana": "たのむ",
+  "def": "to request "
+ },
+ {
+  "kanji": "違う",
+  "kana": "ちがう",
+  "def": "to be different "
+ },
+ {
+  "kanji": "使う",
+  "kana": "つかう",
+  "def": "to use "
+ },
+ {
+  "kanji": "着く",
+  "kana": "つく",
+  "def": "to arrive "
+ },
+ {
+  "kanji": "作る",
+  "kana": "つくる",
+  "def": "to make "
+ },
+ {
+  "kanji": "飛ぶ",
+  "kana": "とぶ",
+  "def": "to fly "
+ },
+ {
+  "kanji": "止まる",
+  "kana": "とまる",
+  "def": "to stop "
+ },
+ {
+  "kanji": "取る",
+  "kana": "とる",
+  "def": "to take "
+ },
+ {
+  "kanji": "撮る",
+  "kana": "とる",
+  "def": "to take (photos) "
+ },
+ {
+  "kanji": "直す",
+  "kana": "なおす",
+  "def": "to correct "
+ },
+ {
+  "kanji": "泣く",
+  "kana": "なく",
+  "def": "to cry "
+ },
+ {
+  "kanji": "なくす",
+  "kana": "なくす",
+  "def": "to lose "
+ },
+ {
+  "kanji": "悩む",
+  "kana": "なやむ",
+  "def": "to be worried "
+ },
+ {
+  "kanji": "習う",
+  "kana": "ならう",
+  "def": "to learn "
+ },
+ {
+  "kanji": "並ぶ",
+  "kana": "ならぶ",
+  "def": "to line up "
+ },
+ {
+  "kanji": "なる",
+  "kana": "なる",
+  "def": "to become "
+ },
+ {
+  "kanji": "脱ぐ",
+  "kana": "ぬぐ",
+  "def": "to take off "
+ },
+ {
+  "kanji": "登る",
+  "kana": "のぼる",
+  "def": "to climb "
+ },
+ {
+  "kanji": "飲む",
+  "kana": "のむ",
+  "def": "to drink "
+ },
+ {
+  "kanji": "乗る",
+  "kana": "のる",
+  "def": "to get on "
+ },
+ {
+  "kanji": "入る",
+  "kana": "はいる",
+  "def": "to come in "
+ },
+ {
+  "kanji": "穿く",
+  "kana": "はく",
+  "def": "to put on (pants) "
+ },
+ {
+  "kanji": "履く",
+  "kana": "はく",
+  "def": "to put on (shoes/socks) "
+ },
+ {
+  "kanji": "始まる",
+  "kana": "はじまる",
+  "def": "to begin "
+ },
+ {
+  "kanji": "走る",
+  "kana": "はしる",
+  "def": "to run "
+ },
+ {
+  "kanji": "働く",
+  "kana": "はたらく",
+  "def": "to work "
+ },
+ {
+  "kanji": "貼る",
+  "kana": "はる",
+  "def": "to post "
+ },
+ {
+  "kanji": "引く",
+  "kana": "ひく",
+  "def": "to pull "
+ },
+ {
+  "kanji": "弾く",
+  "kana": "ひく",
+  "def": "to play (instruments) "
+ },
+ {
+  "kanji": "吹く",
+  "kana": "ふく",
+  "def": "to blow "
+ },
+ {
+  "kanji": "振る",
+  "kana": "ふる",
+  "def": "to shake, to dump "
+ },
+ {
+  "kanji": "降る",
+  "kana": "ふる",
+  "def": "to fall down "
+ },
+ {
+  "kanji": "曲がる",
+  "kana": "まがる",
+  "def": "to turn "
+ },
+ {
+  "kanji": "待つ",
+  "kana": "まつ",
+  "def": "to wait "
+ },
+ {
+  "kanji": "迷う",
+  "kana": "まよう",
+  "def": "to wonder "
+ },
+ {
+  "kanji": "見送る",
+  "kana": "みおくる",
+  "def": "to see off "
+ },
+ {
+  "kanji": "磨く",
+  "kana": "みがく",
+  "def": "to brush "
+ },
+ {
+  "kanji": "申す",
+  "kana": "もうす",
+  "def": "to say "
+ },
+ {
+  "kanji": "持つ",
+  "kana": "もつ",
+  "def": "to hold "
+ },
+ {
+  "kanji": "休む",
+  "kana": "やすむ",
+  "def": "to take a rest "
+ },
+ {
+  "kanji": "やる",
+  "kana": "やる",
+  "def": "to do, to play (games) "
+ },
+ {
+  "kanji": "呼ぶ",
+  "kana": "よぶ",
+  "def": "to call "
+ },
+ {
+  "kanji": "読む",
+  "kana": "よむ",
+  "def": "to read "
+ },
+ {
+  "kanji": "分かる",
+  "kana": "わかる",
+  "def": "to understand "
+ },
+ {
+  "kanji": "渡す",
+  "kana": "わたす",
+  "def": "to hand over "
+ },
+ {
+  "kanji": "渡る",
+  "kana": "わたる",
+  "def": "to cross "
+ },
+ {
+  "kanji": "開ける",
+  "kana": "あける",
+  "def": "to open "
+ },
+ {
+  "kanji": "上げる",
+  "kana": "あげる",
+  "def": "to increase "
+ },
+ {
+  "kanji": "浴びる",
+  "kana": "あびる",
+  "def": "to take a shower "
+ },
+ {
+  "kanji": "いる",
+  "kana": "いる",
+  "def": "there be "
+ },
+ {
+  "kanji": "入れる",
+  "kana": "いれる",
+  "def": "to put in "
+ },
+ {
+  "kanji": "生まれる",
+  "kana": "うまれる",
+  "def": "to be born "
+ },
+ {
+  "kanji": "起きる",
+  "kana": "おきる",
+  "def": "to get up "
+ },
+ {
+  "kanji": "教える",
+  "kana": "おしえる",
+  "def": "to teach, to tell "
+ },
+ {
+  "kanji": "覚える",
+  "kana": "おぼえる",
+  "def": "to remember "
+ },
+ {
+  "kanji": "降りる",
+  "kana": "おりる",
+  "def": "to get off "
+ },
+ {
+  "kanji": "かける",
+  "kana": "かける",
+  "def": "to put on "
+ },
+ {
+  "kanji": "借りる",
+  "kana": "かりる",
+  "def": "to borrow "
+ },
+ {
+  "kanji": "消える",
+  "kana": "きえる",
+  "def": "to disappear "
+ },
+ {
+  "kanji": "着る",
+  "kana": "きる",
+  "def": "to wear "
+ },
+ {
+  "kanji": "答える",
+  "kana": "こたえる",
+  "def": "to answer "
+ },
+ {
+  "kanji": "閉める",
+  "kana": "しめる",
+  "def": "to close "
+ },
+ {
+  "kanji": "締める",
+  "kana": "しめる",
+  "def": "to tighten "
+ },
+ {
+  "kanji": "信じる",
+  "kana": "しんじる",
+  "def": "to believe "
+ },
+ {
+  "kanji": "確かめる",
+  "kana": "たしかめる",
+  "def": "to confirm "
+ },
+ {
+  "kanji": "立てる",
+  "kana": "たてる",
+  "def": "to make (a plan) "
+ },
+ {
+  "kanji": "食べる",
+  "kana": "たべる",
+  "def": "to eat "
+ },
+ {
+  "kanji": "疲れる",
+  "kana": "つかれる",
+  "def": "to get tired "
+ },
+ {
+  "kanji": "つける",
+  "kana": "つける",
+  "def": "to put on "
+ },
+ {
+  "kanji": "伝える",
+  "kana": "つたえる",
+  "def": "to express "
+ },
+ {
+  "kanji": "勤める",
+  "kana": "つとめる",
+  "def": "to work "
+ },
+ {
+  "kanji": "出かける",
+  "kana": "でかける",
+  "def": "to go out "
+ },
+ {
+  "kanji": "出る",
+  "kana": "でる",
+  "def": "to go out "
+ },
+ {
+  "kanji": "並べる",
+  "kana": "ならべる",
+  "def": "to arrange "
+ },
+ {
+  "kanji": "寝る",
+  "kana": "ねる",
+  "def": "to sleep "
+ },
+ {
+  "kanji": "晴れる",
+  "kana": "はれる",
+  "def": "to be sunny "
+ },
+ {
+  "kanji": "見せる",
+  "kana": "みせる",
+  "def": "to show "
+ },
+ {
+  "kanji": "見る",
+  "kana": "みる",
+  "def": "to see, to watch "
+ },
+ {
+  "kanji": "忘れる",
+  "kana": "わすれる",
+  "def": "to forget "
+ }
+]
