@@ -2,11 +2,6 @@
   background-color: #8bfcb8;
 }
 
-.error {
-  background-color: lightcoral;
-  border: red;
-}
-
 #word {
   border-style: solid;
   border-width: 1px;
