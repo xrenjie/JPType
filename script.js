@@ -30,27 +30,13 @@ function loadWords(){
 }
 loadWords();
 
+const catMap = new Map([["adj",0], ["noun",1], ["verb",2], ["all",3]]);
+
 //on click start button, start logic
 document.getElementById("start").addEventListener("click", () => {
   let score = 0;
-  let category = 0;
   let word = "";
-  switch(typeElement.value){
-    case "adj":
-      category = 0;
-      break;
-    case "noun":
-      category = 1;
-      break;
-    case "verb":
-      category = 2;
-      break;
-    case "all":
-      category = 3;
-      break;
-    default:
-      category = 0;
-  }
+  let category = catMap.get(typeElement.value);
 
   //reset state
   messageElement.innerHTML = "Score: 0";
